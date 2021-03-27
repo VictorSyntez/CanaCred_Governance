@@ -2,7 +2,7 @@
 
 The governance framework is structured into three distinct areas.
 
-![](../images/Governance Framework.png)
+![](../images/GovernanceFramework.png)
 
 ## Corporate
 
