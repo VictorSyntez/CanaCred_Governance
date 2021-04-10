@@ -16,9 +16,9 @@ The bylaws outline the responsibilities of the board, the positions within it an
 
 The bylaws outline how committees are formed and how they are to report to the board.
 
-### Membership
+### Not-for-profit Membership
 
-The bylaws stipulate the membership criteria and the ways that the members can interact with the board.
+The bylaws stipulate the not-for-profit membership criteria and the ways that the members can interact with the board.
 
 ## Ecosystem
 
@@ -28,6 +28,7 @@ The ecosystem section provides governance for the components that CanaCred provi
 
 The network governance outlines the roles that network participants can take on to interact with the network.  
 
+<!--// TODO: Move these terms to the glossary-->
 #### Steward
 
 #### Trust Anchor
