@@ -14,41 +14,23 @@ The contents herein are considered additional terms specific to the **Canadian C
 
 Currently we are in the process of adding new terms and definitions. Below are the terms that need clarification and defining. Some of them will be removed from Canacred Glossary. 
 
-Self-Certification, 
+**Self-Certification** - the process of an Entity issuing a credential that is presented to other participants of the digital ecosystem when the credential itself is issued by that same Entity. 
 
-Certification or Accreditation, 
+**Claim** - A statement about a Subject or a statement about an association that exists between two or more Subjects. A claim is expressed by means of one or more attributes.
 
-Participation Application Practices and Procedures, 
+**Accreditation** - the process performed by designated Trust Actor of verifying that Canacred Participant conforms to the requirements of the Governance Framework. Accreditation is performed to add reasonable assurance that the Participant is meeting established trust criteria.
 
-*Canacred Open Source Code*, 
+**Trust Registry** - the Trust Role that mediate the creation and veriofication of identifiers, keys, and other relevant data, such as verifiable credential schemas, revocation registries, issuer public keys, and so on, which might be required to use verifiable credentials. 
 
-Hosting Provider,
+**Governance Framework** - A set of agreed on principles, definitions, standards, specifications, conformance criteria, contracts, and assessment approach by which Canacred Participants agree to be governed in order to achieve desired Levels of Assurance. Canacred Governance Framework will consist of Master Document, Glossary, Legal Agreements, Core Business Policiess and Trust Assurance Framework.
 
-Validator and Observer Nodes, 
+**Trust Assurance Framework** - A set of human readable and cryptographic documents containing policies, definitions describing Trust Actors and Trust Roles, as well as Trust Elements, Trust Evidence and Conformance Criteria. These documents define Subjects of the Trust Assurance Framework as well as their processes.
 
-*Crisis Management Plan*, 
+**Canacred Participant** - An Entity that has at least one DID in the Canacred Network. There will be two types of Participants in the Canacred Network: Contributors and Readers. Contributor is the Participant with write and read access to the Canacred Network. Reader is the Participant with read access only to the Canacred Network.
 
-Network Interface Controller, 
+**Trust Actor** - Entity that create, assess, and opinion on legal, governance and business frameworks where Canacred operates. Examples: Federal, provincial governments and government entities.
 
-Diffuse Trust Principle, 
-
-High Availability Principle, 
-
-Transaction Author, 
-
-Data Controller, 
-
-Data Processor, 
-
-FIFO Waiting [list](https://queue-it.com/queue-first-in-first-out/)
-
-Trust Anchor
-
-Registry
-
-**?** Trust Mechanism
-
-**?** Trust Author
+**Trust Role** - Accreditated Contributors of the Canacred that have the right to make trust assertions about other Participants. Examples: Steward, Issuer, Registrar.
 
 ## Abstract from  PCTF Glossary**:
 
@@ -63,6 +45,7 @@ The PCTF Glossary provides definitions and examples for terms that appear across
 ### Entity
 An entity is a thing with a distinct and independent existence such as a person, organization, or device that can be subject to legislation, policy, or regulations within a context, and which may have certain rights, duties, and obligations. An entity can perform one or more roles in the digital ecosystem. 
 There are two types of entities: atomic entities and compound entities. An atomic entity is an entity that cannot be decomposed into smaller units. Persons are atomic entities. A compound entity is an entity that is comprised of one or more atomic entities. Organizations are compound entities.
+
 ### Relationship
 A relationship is an association between two or more entities. The entities in the relationship can be any combination of atomic entities and compound entities. Relationships between entities must be differentiated from interactions between entities (i.e.,
 transaction execution).
@@ -78,10 +61,6 @@ The computer software that is installed on all Nodes associated with the Canacre
 
 ### Canacred Ledger Environments
 The corpus of DID Ledgers used by the Canadian Credential Network to operate the Canacred Network Utility. For example: ```prod```, ```test```, and ```dev```.
-
-### DID Namespace
-
-Building on URI Standards, the DID Specification allows for both  root namespace (did:xxx) and sub-namespace (did:xxx:yyy) conventions.
 
 ### Governing Body
 
@@ -126,3 +105,31 @@ The Private-Key used by a Steward when interacting with the Indy CLI.
 
 ### Validator Private Key
 The Private-Key used by the Validator Node when performing concensus.
+
+Participation Application Practices and Procedures, 
+
+Hosting Provider,
+
+Validator and Observer Nodes, 
+
+*Crisis Management Plan*, 
+
+Network Interface Controller, 
+
+Diffuse Trust Principle, 
+
+High Availability Principle, 
+
+Transaction Author, 
+
+Data Controller, 
+
+Data Processor, 
+
+FIFO Waiting [list](https://queue-it.com/queue-first-in-first-out/)
+
+Trust Anchor
+
+**?** Trust Mechanism
+
+**?** Trust Author
