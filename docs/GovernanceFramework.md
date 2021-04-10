@@ -54,6 +54,7 @@ The CCN-GF formally consists of a set of interrelated documents that collectivel
 See [CCN Principles](./Principles.md).
 
 ## Core Polices
+See [CCN Policies](./Policies.md).
 In keeping with all Core Principles and especially the Decentralization by Design and Security by Design principles:
 
 1. Policies, practices, procedures, and algorithms governing participation of [Stewards](./Glossary.md) and operation of Nodes MUST follow all Core Principles.
@@ -145,8 +146,6 @@ The following Controlled Documents are normative components of the CCN-GF. All f
 | Verifiable Credentials Data Model 1.0 | [Specification for verifiable credentials](https://w3c.github.io/vc-data-model/) | W3C Verifiable Claims Working Group |
 
 ### Policies
-See [CCN Policies](./Policies.md).
-
 | Document Name | Description | Governed By |
 | --- | --- | --- |
 | Governing Body Policies | Chartering and functioning of CCN Governing Bodies | Governing Board |
