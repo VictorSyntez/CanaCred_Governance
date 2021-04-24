@@ -30,6 +30,14 @@ Currently we are in the process of adding new terms and definitions. Below are t
 
 **Trust Actor** - Entity that create, assess, and opinion on legal, governance and business frameworks where Canacred operates. Examples: Federal, provincial governments and government entities.
 
+**Trust Element** - 
+
+**Trust Evidence** - 
+
+**Procedure** - 
+
+**Policy** - A document that denotes views on the best or preferred means of carrying out internal and exteranl activities. Policy refers ways how Canacred activities are designed to achieve it's objectives. Policy refer to how Canacred plan to operate (internal procedures) and what activities Canacred plan to run.
+
 **Trust Role** - Accreditated Contributors of the Canacred that have the right to make trust assertions about other Participants. Examples: Steward, Issuer, Registrar.
 
 ## Abstract from  PCTF Glossary**:
